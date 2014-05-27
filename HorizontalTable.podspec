@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
 
   s.platform     = :ios, '6.0'
 
-  s.source_files = 'HorizontalTable/Classes/HorizontalTableView.{h,m}'
+  s.source_files = 'Classes/HorizontalTableView.{h,m}'
 
   s.resources = ''
 
